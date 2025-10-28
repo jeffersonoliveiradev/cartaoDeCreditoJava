@@ -5,3 +5,7 @@ Permite cadastrar compras, controlar o saldo e listar as compras ordenadas por v
 
 ## Como executar
 Compile e rode o código com:
+
+```bash
+javac src/*.java
+java -cp src Principal
